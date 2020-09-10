@@ -20,3 +20,17 @@ Please follow the below instructions on how to submit your answers.
 Given the following dataset in `ClusterPlot.csv`, determine the number of clusters by using any clustering algorithm. **You're allowed to use any Python library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file.
+
+
+--------------------------------------------------------
+--------------------------------------------------------
+For my code, I tried to use the Elbow Method to find the optimal number of clusters. I used the following libraries
+- pandas
+- matplotlib
+- sklearn
+
+I referenced my code off of the following:
+https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f
+https://www.youtube.com/watch?v=imtvI5CQLm4&ab_channel=ChucNguyenVan
+
+I'm only familiar with Java and C++ so trying out Python for the first time was a pretty cool learning experience.
